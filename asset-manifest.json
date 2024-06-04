@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.1660963d.css",
-    "main.js": "/static/js/main.c342b93c.js",
-    "static/js/787.16d1e817.chunk.js": "/static/js/787.16d1e817.chunk.js",
+    "main.css": "/static/css/main.a991057f.css",
+    "main.js": "/static/js/main.8cceafa3.js",
+    "static/js/787.ee465b50.chunk.js": "/static/js/787.ee465b50.chunk.js",
     "static/media/wm2.png": "/static/media/wm2.f35ea52403c10e48f72b.png",
     "static/media/wm4.png": "/static/media/wm4.0e3e63799a762d2664b1.png",
     "static/media/wm3.png": "/static/media/wm3.384e3a638526f791ccf0.png",
@@ -52,7 +52,7 @@
     "static/media/at2.png": "/static/media/at2.bb5e48388a90d0a138b3.png",
     "static/media/ff9.png": "/static/media/ff9.47937d06557ef8b71df6.png",
     "static/media/Arivu5.png": "/static/media/Arivu5.adc510dcc245b6682693.png",
-    "static/media/Deepak-Yadav-Resume.pdf": "/static/media/Deepak-Yadav-Resume.8402e5b105c0ba7fb326.pdf",
+    "static/media/Deepak-Yadav-Resume.pdf": "/static/media/Deepak-Yadav-Resume.01a0882f45b127a8a0ac.pdf",
     "static/media/tc12.png": "/static/media/tc12.817e55b1346526fce6ea.png",
     "static/media/ff11.png": "/static/media/ff11.8116bd4f5648c3ed972d.png",
     "static/media/at4.png": "/static/media/at4.419d1e0ca2930c7a1dc4.png",
@@ -63,12 +63,12 @@
     "index.html": "/index.html",
     "static/media/mongodb-seeklogo.com.svg": "/static/media/mongodb-seeklogo.com.1aca075d5cce0819fea7ea0902d94ce4.svg",
     "static/media/npm.876.svg": "/static/media/npm.876.87689eab730642c86d2b01f3ef4a19e3.svg",
-    "main.1660963d.css.map": "/static/css/main.1660963d.css.map",
-    "main.c342b93c.js.map": "/static/js/main.c342b93c.js.map",
-    "787.16d1e817.chunk.js.map": "/static/js/787.16d1e817.chunk.js.map"
+    "main.a991057f.css.map": "/static/css/main.a991057f.css.map",
+    "main.8cceafa3.js.map": "/static/js/main.8cceafa3.js.map",
+    "787.ee465b50.chunk.js.map": "/static/js/787.ee465b50.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1660963d.css",
-    "static/js/main.c342b93c.js"
+    "static/css/main.a991057f.css",
+    "static/js/main.8cceafa3.js"
   ]
 }
