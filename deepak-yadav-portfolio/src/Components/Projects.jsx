@@ -2,7 +2,7 @@ import React from "react";
 import GitHubCalendar from "react-github-calendar";
 import ProjectCard from "./ProjectCard";
 import "../Style/projects.css";
-import { Flex } from "@chakra-ui/react";
+// import { Flex } from "@chakra-ui/react";
 
 import {
   famousFootwear,
@@ -30,7 +30,7 @@ const Projects = () => {
       <div id="tech" margin={"auto"} justifyContent={"space-around"}>
         <h1 style={{ color: "var(--color-font)" }}>Projects </h1>
       </div>
-      <Flex
+      {/* <Flex
         id="skillsButton"
         m="auto"
         w={400}
@@ -55,7 +55,7 @@ const Projects = () => {
         >
           ANDROID{" "}
         </button>
-      </Flex>
+      </Flex> */}
       <div id="procard">
         {tech === `android` ? (
           <>
@@ -92,6 +92,7 @@ const Projects = () => {
           Github Contribution Calender{" "}
         </h2>
       </div>
+      <div id="calendar-parent">
       <div id="calendar">
         <GitHubCalendar
           fontSize={14}
@@ -104,6 +105,7 @@ const Projects = () => {
           username="Deepak-25yadav"
         />
 
+      </div>
       </div>
       <div id="gitname" margin={"auto"} justifyContent={"space-around"}>
         <h2 style={{ color: "var(--color-font)" }}>Github Stats </h2>

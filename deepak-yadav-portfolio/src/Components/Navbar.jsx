@@ -7,7 +7,7 @@ import resumeFile from "../Resume/Deepak-Yadav-Resume.pdf"
 
 const Navbar = () => {
   const handleResumeShow=()=>{
-    window.open(`https://drive.google.com/file/d/1uUEDZbWohQFOxCGTjl5cdYdI1bO7iT86/view?usp=sharing`)
+    window.open(`https://drive.google.com/file/d/18siCUKPoAZMOuTgcpI4NyMv6fqHJWpoj/view?usp=sharing`)
   }
   const [activenav, setActiveNav] = React.useState("#home");
 

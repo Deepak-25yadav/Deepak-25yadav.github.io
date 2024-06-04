@@ -32,12 +32,19 @@
   border: 5px solid var(--color-bg);
   /* box-shadow: var(--color-bg) 0px 10px 20px, var(--color-bg) 0px 6px 6px; */
 }
+#calendar-parent{
+  /* border: 1px solid red; */
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 85%; */
+    /* height: 100vh; Adjust as needed */
+}
 #calendar{
-   width: 85%; 
-  margin: auto;
-
-  text-align: center;
-
+   width: 75%; 
+  /* margin: auto; */
+  /* text-align: center; */
+/* border: 1px solid green; */
 }
 @media all and (min-width: 320px) and (max-width: 1030px) {
   #procard{
