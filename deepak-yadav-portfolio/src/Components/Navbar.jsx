@@ -1,7 +1,7 @@
 import React from "react";
-import { Image, SimpleGrid, Flex, Box } from "@chakra-ui/react";
+import { Image } from "@chakra-ui/react";
 import "../Components/nav.css";
-import NavDrawer from "./NavDrawer";
+// import NavDrawer from "./NavDrawer";
 // import resumeFile from "../Resume/Deepak-Yadav-Resume.pdf"
 import resumeFile from "../Resume/Deepak-Yadav-Resume.pdf"
 
@@ -15,7 +15,7 @@ const Navbar = () => {
     <nav>
       <a
         onClick={() => [setActiveNav("#home")]}
-        className={activenav == "#home" ? "active" : null}
+        className={activenav === "#home" ? "active" : null}
         href="#home"
       >
         {" "}
@@ -27,7 +27,7 @@ const Navbar = () => {
       </a>
       <a
         onClick={() => [setActiveNav("#about")]}
-        className={activenav == "#about" ? "active" : null}
+        className={activenav === "#about" ? "active" : null}
         href="#about"
       >
         {" "}
@@ -39,7 +39,7 @@ const Navbar = () => {
       </a>
       <a
         onClick={() => setActiveNav("#skills")}
-        className={activenav == "#skills" ? "active" : null}
+        className={activenav === "#skills" ? "active" : null}
         href="#skills"
       >
         {" "}
@@ -52,7 +52,7 @@ const Navbar = () => {
 
       <a
         onClick={() => setActiveNav("#projects")}
-        className={activenav == "#projects" ? "active" : null}
+        className={activenav === "#projects" ? "active" : null}
         href="#projects"
       >
         {" "}
@@ -63,7 +63,7 @@ const Navbar = () => {
       </a>
       <a
         onClick={() => setActiveNav("#contact")}
-        className={activenav == "#contact" ? "active" : null}
+        className={activenav === "#contact" ? "active" : null}
         href="#contact"
       >
         {" "}
@@ -76,7 +76,7 @@ const Navbar = () => {
      <a
       
       onClick={() => setActiveNav("#resume")}
-      className={activenav == "#resume" ? "active" : null}
+      className={activenav === "#resume" ? "active" : null}
       href={resumeFile} download
     >
       {" "}

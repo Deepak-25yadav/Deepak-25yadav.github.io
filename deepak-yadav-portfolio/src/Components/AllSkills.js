@@ -17,7 +17,6 @@ import {
   vs,
   postman,
   thunder,
-  cypress,
   chakra,
   // kitten,
 } from "../Components/Images/AllLogos";

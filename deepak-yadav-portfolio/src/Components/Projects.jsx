@@ -13,7 +13,9 @@ import {
 } from "./AllProjects";
 
 const Projects = () => {
-  const [tech, setTech] = React.useState("all");
+  // const [tech, setTech] = React.useState("all");
+  let tech="all"
+
 
   const allProjectArr = [
     famousFootwear,
