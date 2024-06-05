@@ -10,26 +10,25 @@ const About = () => {
 
       <div id="aboutdiv">
       <div>
-        <ul type="square">
-            <li>
-                <p id="jsf1">Junior Software Developer | <a href="https://www.hushl.ai" target="_blank" id="hushl-link">hushl.ai</a></p>
-                <p id="jsf2">Bengaluru, Karnataka | Dec 2023 - May 2024</p>
-                <ul>
-                    <li>Spark (dating app): Built onboarding, edit profile, and my-bookings screens using JavaScript, React-Native.</li>
-                    <li>Integrated Google Maps & OpenAI (ChatGPT) using Node.js.</li>
-                    <li>Developed responsive web designs using HTML, CSS, JavaScript, and React.</li>
-                    <li>Created admin dashboards and internal tools (Data Scraping Tool, Spark-Referral-Table, Wandery.ai) using React, Node.js, News API, YouTube API, and OpenAI API.</li>
-                </ul>
-            </li>
-            <li>
-            <p id="aa1">Assessment Assistant (AA) | <a href="https://www.masaischool.com" target="_blank" id="masai-link">Masai School</a></p>
-            <p id="aa2">Bengaluru, Karnataka | Oct 2023 - Dec 2023</p>
-                <ul>
-                    <li>Conducted interviews for students completing 2-3 month courses on HTML, CSS, and JavaScript.</li>
-                </ul>
-            </li>
-        </ul>
-    </div>
+  <ul type="square">
+    <li>
+      Hello, Deepak Yadav enjoys creating things that live on the Internet.
+    </li>
+    <li>
+      A passionate Developer with strong administrative and communication skills, over 1200 hours of hands-on coding experience, good attention to detail, and the ability to write efficient code using the MERN Stack.
+    </li>
+    <li>
+      Interest in web development began in the last year of college while working on an E-Commerce project with friends who faced challenges in making good web applications.
+    </li>
+    <li>
+      Continuous growth and development as a Developer are driven by an inquisitiveness for discovering new things every day.
+    </li>
+    <li>
+      To date, has built numerous web applications and completed 5 major projects, gaining significant experience in teamwork, leadership, and communication. After months of rigorous training, now seeking an opportunity as a full-stack web developer.
+    </li>
+  </ul>
+</div>
+
         <div>
           <img
             src="https://img.freepik.com/premium-vector/man-working-home_28923-46.jpg?w=740"
@@ -106,3 +105,29 @@ export default About;
 
 // export default About;
 
+
+
+
+// Experience
+
+{/* <div>
+        <ul type="square">
+            <li>
+                <p id="jsf1">Junior Software Developer | <a href="https://www.hushl.ai" target="_blank" id="hushl-link">hushl.ai</a></p>
+                <p id="jsf2">Bengaluru, Karnataka | Dec 2023 - May 2024</p>
+                <ul>
+                    <li>Spark (dating app): Built onboarding, edit profile, and my-bookings screens using JavaScript, React-Native.</li>
+                    <li>Integrated Google Maps & OpenAI (ChatGPT) using Node.js.</li>
+                    <li>Developed responsive web designs using HTML, CSS, JavaScript, and React.</li>
+                    <li>Created admin dashboards and internal tools (Data Scraping Tool, Spark-Referral-Table, Wandery.ai) using React, Node.js, News API, YouTube API, and OpenAI API.</li>
+                </ul>
+            </li>
+            <li>
+            <p id="aa1">Assessment Assistant (AA) | <a href="https://www.masaischool.com" target="_blank" id="masai-link">Masai School</a></p>
+            <p id="aa2">Bengaluru, Karnataka | Oct 2023 - Dec 2023</p>
+                <ul>
+                    <li>Conducted interviews for students completing 2-3 month courses on HTML, CSS, and JavaScript.</li>
+                </ul>
+            </li>
+        </ul>
+    </div> */}

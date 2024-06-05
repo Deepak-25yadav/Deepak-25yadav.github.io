@@ -8,7 +8,7 @@ import NavDrawer from "./NavDrawer";
 
 const TopNavbar = () => {
   const handleResumeShow=()=>{
-  window.open(`https://drive.google.com/file/d/18siCUKPoAZMOuTgcpI4NyMv6fqHJWpoj/view?usp=sharing`)
+  window.open(`https://drive.google.com/file/d/1UlsGl6B8UjDJqb7q-upB6su6-qqWxmB_/view?usp=sharing`)
 }
   const [current, setCurrent] = useState("#home");
   // const [fix,setFix]=useState(false)

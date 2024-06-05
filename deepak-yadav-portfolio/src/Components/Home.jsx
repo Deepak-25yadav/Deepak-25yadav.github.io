@@ -10,10 +10,10 @@ import Aos from "aos";
 
 const handleResumeShow = () => {
   window.open(
-    `https://drive.google.com/file/d/18siCUKPoAZMOuTgcpI4NyMv6fqHJWpoj/view?usp=sharing`
+    `https://drive.google.com/file/d/1UlsGl6B8UjDJqb7q-upB6su6-qqWxmB_/view?usp=sharing`
   );
 };
-// old reseme link : https://drive.google.com/file/d/18siCUKPoAZMOuTgcpI4NyMv6fqHJWpoj/view?usp=sharing
+
 const Home = () => {
   useEffect(() => {
     Aos.init({ duration: 1000 });
